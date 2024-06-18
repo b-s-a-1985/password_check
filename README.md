@@ -19,7 +19,8 @@
 - git commit -m "first commit"
 - git status
 - git log
-- git remote add origin git@github.com:b-s-a-1985/pwd_check.git
+- visit GitHub and create repository 'password_check'
+- copy the URL of new repository
 - git remote add origin https://github.com/b-s-a-1985/password_check.git
 - git remote remove origin
 - git push -u origin master

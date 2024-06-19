@@ -12,15 +12,4 @@
 - Have a symbol
 - Be 8 or more characters long
 
-### GitHub
 
-- git init
-- git add main.go README.md go.mod
-- git commit -m "first commit"
-- git status
-- git log
-- visit GitHub and create repository 'password_check'
-- copy the URL of new repository
-- git remote add origin https://github.com/b-s-a-1985/password_check.git
-- git remote remove origin
-- git push -u origin master
